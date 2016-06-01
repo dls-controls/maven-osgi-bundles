@@ -219,6 +219,12 @@
                 <artifact>
                   <id>org.csstudio:org.csstudio.platform.libs.epics:${csstudio.version}</id>
                 </artifact>
+                <artifact>
+                    <id>net.sf.cssbox:jstyleparser:1.22</id>
+                </artifact>
+                <artifact>
+                    <id>org.unbescape:unbescape:1.1.3.RELEASE</id>
+                </artifact>               
               </artifacts>
             </configuration>
           </execution>
